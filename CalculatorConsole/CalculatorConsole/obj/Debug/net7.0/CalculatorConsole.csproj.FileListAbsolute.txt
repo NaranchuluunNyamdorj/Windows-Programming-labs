@@ -1,0 +1,30 @@
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.csproj.AssemblyReference.cache
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.AssemblyInfoInputs.cache
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.AssemblyInfo.cs
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.csproj.CoreCompileInputs.cache
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.deps.json
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.runtimeconfig.json
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.dll
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.pdb
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.dll
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/refint/CalculatorConsole.dll
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.pdb
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.genruntimeconfig.cache
+/Users/naka/C# projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/ref/CalculatorConsole.dll
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.deps.json
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.runtimeconfig.json
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.dll
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/bin/Debug/net7.0/CalculatorConsole.pdb
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.csproj.AssemblyReference.cache
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.AssemblyInfoInputs.cache
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.AssemblyInfo.cs
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.csproj.CoreCompileInputs.cache
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.dll
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/refint/CalculatorConsole.dll
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.pdb
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/CalculatorConsole.genruntimeconfig.cache
+/Users/naka/C#projects/CalculatorConsole/CalculatorConsole/obj/Debug/net7.0/ref/CalculatorConsole.dll
